@@ -1,1 +1,2 @@
-# -Seances-09-10
+# Seances-09-10
+## Ex 1
